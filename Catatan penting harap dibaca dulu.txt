@@ -1,0 +1,10 @@
+no pada bagian transaksi tidak boleh kosong disini saya menggunakan no untuk mengularkan rate dan amount untuk perhitungan sell
+lalu di datagrid saya menggunakan cell mouse double clik untuk mengeluarkan data sell yang akan di simpan pada laporan.
+
+sekian catatan ini
+
+
+     
+
+     TTD
+ Aam Rahmawan

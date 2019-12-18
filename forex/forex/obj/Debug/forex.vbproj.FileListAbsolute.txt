@@ -1,0 +1,38 @@
+D:\forex\forex\forex\bin\Debug\forex.exe.config
+D:\forex\forex\forex\bin\Debug\forex.exe
+D:\forex\forex\forex\bin\Debug\forex.pdb
+D:\forex\forex\forex\bin\Debug\forex.xml
+D:\forex\forex\forex\obj\Debug\forex.Form1.resources
+D:\forex\forex\forex\obj\Debug\forex.Form2.resources
+D:\forex\forex\forex\obj\Debug\forex.Resources.resources
+D:\forex\forex\forex\obj\Debug\forex.vbproj.GenerateResource.Cache
+D:\forex\forex\forex\obj\Debug\forex.exe
+D:\forex\forex\forex\obj\Debug\forex.xml
+D:\forex\forex\forex\obj\Debug\forex.pdb
+D:\forex\forex\forex\obj\Debug\forex.Form3.resources
+I:\Visual Basic forex\forex\forex\forex\bin\Debug\forex.exe.config
+I:\Visual Basic forex\forex\forex\forex\obj\Debug\forex.exe
+I:\Visual Basic forex\forex\forex\forex\obj\Debug\forex.xml
+I:\Visual Basic forex\forex\forex\forex\obj\Debug\forex.pdb
+I:\Visual Basic forex\forex\forex\forex\bin\Debug\forex.exe
+I:\Visual Basic forex\forex\forex\forex\bin\Debug\forex.pdb
+I:\Visual Basic forex\forex\forex\forex\bin\Debug\forex.xml
+I:\Visual Basic forex\forex\forex\forex\obj\Debug\forex.Form1.resources
+I:\Visual Basic forex\forex\forex\forex\obj\Debug\forex.Form2.resources
+I:\Visual Basic forex\forex\forex\forex\obj\Debug\forex.Form3.resources
+I:\Visual Basic forex\forex\forex\forex\obj\Debug\forex.Resources.resources
+I:\Visual Basic forex\forex\forex\forex\obj\Debug\forex.vbproj.GenerateResource.Cache
+D:\forex\forex\forex\obj\Debug\forex.Form4.resources
+E:\forex\forex\forex\bin\Debug\forex.exe.config
+E:\forex\forex\forex\obj\Debug\forex.exe
+E:\forex\forex\forex\obj\Debug\forex.xml
+E:\forex\forex\forex\obj\Debug\forex.pdb
+E:\forex\forex\forex\bin\Debug\forex.exe
+E:\forex\forex\forex\bin\Debug\forex.pdb
+E:\forex\forex\forex\bin\Debug\forex.xml
+E:\forex\forex\forex\obj\Debug\forex.Form1.resources
+E:\forex\forex\forex\obj\Debug\forex.Form2.resources
+E:\forex\forex\forex\obj\Debug\forex.Form3.resources
+E:\forex\forex\forex\obj\Debug\forex.Form4.resources
+E:\forex\forex\forex\obj\Debug\forex.Resources.resources
+E:\forex\forex\forex\obj\Debug\forex.vbproj.GenerateResource.Cache
